@@ -1,7 +1,7 @@
 # Aplicatie-de-Inscriere-la-FMI
 Curs de Frontend - Softbinator Labs
 
-Frontend: Angular
+Frontend: Angular  
 Backend: ASP .NET
 
 ## Functionalitati
