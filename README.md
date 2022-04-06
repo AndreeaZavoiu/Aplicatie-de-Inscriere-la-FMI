@@ -14,3 +14,9 @@ Backend: ASP .NET -> master branch
 :heavy_check_mark: get mock data  
 :heavy_check_mark: delete mock data from page  
 :heavy_check_mark: light-dark mode  
+
+
+
+
+https://user-images.githubusercontent.com/79314110/161942117-3954a1d0-d0cb-40e4-abf6-a623de1746c7.mp4
+
