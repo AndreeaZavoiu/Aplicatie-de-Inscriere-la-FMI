@@ -1,8 +1,8 @@
 # Aplicatie-de-Inscriere-la-FMI
 Curs de Frontend - Softbinator Labs
 
-Frontend: Angular  
-Backend: ASP .NET
+Frontend: Angular -> main branch  
+Backend: ASP .NET -> master branch  
 
 ## Functionalitati
 :heavy_check_mark: register  
