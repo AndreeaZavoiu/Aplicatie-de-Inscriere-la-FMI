@@ -1,0 +1,141 @@
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.csproj.AssemblyReference.cache
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.AssemblyInfoInputs.cache
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.AssemblyInfo.cs
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.csproj.CoreCompileInputs.cache
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\appsettings.json
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\InscrieriStudenti.exe
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\InscrieriStudenti.deps.json
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\InscrieriStudenti.runtimeconfig.json
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\InscrieriStudenti.runtimeconfig.dev.json
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\InscrieriStudenti.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\ref\InscrieriStudenti.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\InscrieriStudenti.pdb
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\obj\Debug\net5.0\staticwebassets\InscrieriStudenti.StaticWebAssets.Manifest.cache
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\obj\Debug\net5.0\staticwebassets\InscrieriStudenti.StaticWebAssets.xml
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\obj\Debug\net5.0\scopedcss\bundle\InscrieriStudenti.styles.css
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.RazorTargetAssemblyInfo.cache
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\obj\Debug\net5.0\ref\InscrieriStudenti.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.pdb
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.genruntimeconfig.cache
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\angular-tour-of-heroes\angular.json
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\angular-tour-of-heroes\package-lock.json
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\angular-tour-of-heroes\package.json
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\angular-tour-of-heroes\tsconfig.app.json
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\angular-tour-of-heroes\tsconfig.json
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\angular-tour-of-heroes\tsconfig.spec.json
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\angular-cursuri\angular.json
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\angular-cursuri\package-lock.json
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\angular-cursuri\package.json
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\angular-cursuri\tsconfig.app.json
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\angular-cursuri\tsconfig.json
+C:\Users\Andreea\Desktop\DAW\InscrieriStudenti\bin\Debug\net5.0\angular-cursuri\tsconfig.spec.json
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\angular-cursuri\tsconfig.app.json
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\angular-cursuri\tsconfig.json
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\angular-cursuri\tsconfig.spec.json
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\appsettings.Development.json
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\appsettings.json
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\angular-cursuri\angular.json
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\angular-cursuri\package-lock.json
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\angular-cursuri\package.json
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\InscrieriStudenti.exe
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\InscrieriStudenti.deps.json
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\InscrieriStudenti.runtimeconfig.json
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\InscrieriStudenti.runtimeconfig.dev.json
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\InscrieriStudenti.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\ref\InscrieriStudenti.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\InscrieriStudenti.pdb
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Castle.Core.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Humanizer.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.csproj.AssemblyReference.cache
+D:\an 2 sem 1\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.GeneratedMSBuildEditorConfig.editorconfig
+D:\an 2 sem 1\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.AssemblyInfoInputs.cache
+D:\an 2 sem 1\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.AssemblyInfo.cs
+D:\an 2 sem 1\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.csproj.CoreCompileInputs.cache
+D:\an 2 sem 1\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.MvcApplicationPartsAssemblyInfo.cs
+D:\an 2 sem 1\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.MvcApplicationPartsAssemblyInfo.cache
+D:\an 2 sem 1\DAW\InscrieriStudenti\obj\Debug\net5.0\staticwebassets\InscrieriStudenti.StaticWebAssets.Manifest.cache
+D:\an 2 sem 1\DAW\InscrieriStudenti\obj\Debug\net5.0\staticwebassets\InscrieriStudenti.StaticWebAssets.xml
+D:\an 2 sem 1\DAW\InscrieriStudenti\obj\Debug\net5.0\scopedcss\bundle\InscrieriStudenti.styles.css
+D:\an 2 sem 1\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.RazorTargetAssemblyInfo.cache
+D:\an 2 sem 1\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\obj\Debug\net5.0\ref\InscrieriStudenti.dll
+D:\an 2 sem 1\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.pdb
+D:\an 2 sem 1\DAW\InscrieriStudenti\obj\Debug\net5.0\InscrieriStudenti.genruntimeconfig.cache
+D:\an 2 sem 1\DAW\InscrieriStudenti\bin\Debug\net5.0\angular-cursuri\proxy.conf.json
